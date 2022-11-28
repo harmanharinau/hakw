@@ -8,7 +8,7 @@ How To Use Our Bot?
 
 To Use Your Own Links First Get Your Own Developer Api From mdiskshortnerlink.com
 
-Then Contact To Bot Owner - @OnlyMeAloneBoy."""
+Then Contact To Bot Owner - @Imajaatt."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Cyniteofficial>Click Me</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: Pyrogram
